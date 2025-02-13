@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - SwiftUI Community
 - Apple Developer Documentation
 - MapKit Documentation
-- All contributors and testers
+- All contributors and testersgir 
 
 ---
 
